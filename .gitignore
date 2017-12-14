@@ -99,3 +99,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# my
+.idea/
+dataset/
+model/
+output/
+pre-trained/
